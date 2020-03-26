@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationConfig FileVersion="1">
+  <LastModelName>
+  </LastModelName>
+  <SliceProfileName>001b.slicing</SliceProfileName>
+  <MachineProfileName>001P.machine</MachineProfileName>
+  <AutoConnect>False</AutoConnect>
+  <LoadLastModel>True</LoadLastModel>
+  <Slic3rLocation>
+  </Slic3rLocation>
+  <Slic3rParams>
+  </Slic3rParams>
+  <ForegroundColor>Color [White]</ForegroundColor>
+  <BackgroundColor>Color [Black]</BackgroundColor>
+  <PreviewSlices>True</PreviewSlices>
+  <Preview3dSlice>True</Preview3dSlice>
+  <Preview3dSliceHeight>False</Preview3dSliceHeight>
+  <DriverLogging>False</DriverLogging>
+  <IgnoreGCRsp>False</IgnoreGCRsp>
+  <ShowBoundingBox>False</ShowBoundingBox>
+  <ShowShaded>False</ShowShaded>
+  <ShowOutline>True</ShowOutline>
+  <LicenseKey>00000000000000000000</LicenseKey>
+  <ServerAddress>www.buildyourownsla.com</ServerAddress>
+  <ContactForm>cwupdate.php</ContactForm>
+</ApplicationConfig>

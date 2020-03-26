@@ -1,0 +1,41 @@
+11:34:50.831> Changing driver type to eGENERIC
+11:34:50.840> Info:No Key Ring found
+11:34:52.270> Changing driver type to eGENERIC
+11:35:01.633> Model Loaded C:\Users\ironp\Desktop\CW_Main_1.0.0.75\20mm_Cube\20mm_cube.stl
+11:35:05.663> Connecting to Printer on COM7 using eGENERIC
+11:35:05.747> Device Connected
+11:35:30.998> Slice Profile loaded
+11:35:42.165> Slice Profile loaded
+11:35:45.577> Slice Profile loaded
+11:35:54.839> Slice Profile loaded
+11:35:58.205> Slice Profile loaded
+11:36:36.904> Slice Profile loaded
+11:36:53.128> Slicing started
+11:38:51.121> Slicing started
+11:39:01.228> Slicing started
+11:39:13.385> Slicing started
+11:43:20.476> Print Started
+11:43:20.533> Printing layer 1 of 67
+11:43:48.165> Printing layer 2 of 67
+11:44:15.788> Printing layer 3 of 67
+11:44:43.420> Printing layer 4 of 67
+11:45:11.054> Printing layer 5 of 67
+11:45:31.112> Print Paused
+11:59:22.698> Print Cancelled
+11:59:26.651> Print Started
+11:59:26.715> Printing layer 1 of 67
+11:59:54.325> Printing layer 2 of 67
+12:00:21.934> Printing layer 3 of 67
+12:00:49.559> Printing layer 4 of 67
+12:01:09.590> Print Paused
+13:24:48.387> Print Cancelled
+13:24:53.153> Slicing started
+13:40:05.672> Slicing started
+13:44:58.079> Print Started
+13:44:58.142> Printing layer 1 of 34
+13:45:06.808> Print Cancelled
+13:47:01.341> Print Started
+13:47:01.403> Printing layer 1 of 34
+13:47:29.013> Printing layer 2 of 34
+13:48:06.622> Printing layer 3 of 34
+13:48:44.279> Print Paused
